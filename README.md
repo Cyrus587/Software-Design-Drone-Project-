@@ -1,3 +1,3 @@
 # Software-Design-Drone-Project-
 
-This Project was completed in my CS 420 Software Design Class, I was responsible for completing the AddIteam Container FXML and .java Files. This Code is not runnable from GitHub alone I had to exclude a .jar file that was included in the project, due to its large size.
+This project was completed in my software engineering  class CS 420. I was apart of a group of four other people who designed and implemented a program that would automate tasks that need to be performed on a farm. The program included functions to scan the perimeter of a field of crops, functions to check the color and overall health of the crops, and functions to find the current temperature. This project was completed using Java and JavaFx. I learned a lot about communication, JavaFx and the overall structure of the Java language during completion of this project.This project is not runnable through GitHub alone I had to exclude a .jar file that was too large. 
